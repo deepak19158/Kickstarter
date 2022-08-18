@@ -1,6 +1,6 @@
 ﻿# kickstarter
  
- This is the root page of kickstarter where all the campaign are listed. Where people can list there project for funding
+ This is the root page of kickstarter where all the campaign are listed and people can list their project for funding
 ![image](https://user-images.githubusercontent.com/80789344/185430139-e8bd7088-ab8e-4719-b9cc-58b1c64c8522.png)
 
 By clicking on create campaign, a person can create a campaign by assinging minimum amount to become a contributor in a campaign.
