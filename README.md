@@ -12,7 +12,7 @@ When you click on the View Campaign, you can see the details about each campaign
 Contributing in a campaign
 ![image](https://user-images.githubusercontent.com/80789344/185430286-3a4a473c-f87a-4923-9440-366a5b70ebb7.png)
 
-Yyou can check all the request made by the manager of the campaign for the purchases byu clicking on view Request.
+You can check all the request made by the manager of the campaign for the purchases by clicking on view Request.
 ![image](https://user-images.githubusercontent.com/80789344/185430071-3eb15040-1033-4b9a-96e5-ae28d9c6c68d.png)
 
 A Manager can only finalize the request when more than half of the contributer approves a request.
