@@ -3,6 +3,9 @@
  This is the root page of kickstarter where all the campaign are listed. Where people can list there project for funding
 ![image](https://user-images.githubusercontent.com/80789344/185430139-e8bd7088-ab8e-4719-b9cc-58b1c64c8522.png)
 
+By clicking on create campaign, a person can create a campaign by assinging minimum amount to become a contributor in a campaign.
+![image](https://user-images.githubusercontent.com/80789344/185431545-8217f5d0-7bf9-4d80-902c-913e835c1ada.png)
+
 When you click on the View Campaign, you can see the details about each campaign and can even contribute in a campaign to become a contirbutor of a campaign
 ![image](https://user-images.githubusercontent.com/80789344/185430193-12c0772a-798e-4ac1-8fc8-59bf0221669e.png)
 
