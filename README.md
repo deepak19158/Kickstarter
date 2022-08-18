@@ -1,6 +1,6 @@
 ﻿# kickstarter
  
- This is the root page of kickstarter where all the campaign are listed.
+ This is the root page of kickstarter where all the campaign are listed. Where people can list there project for funding
 ![image](https://user-images.githubusercontent.com/80789344/185430139-e8bd7088-ab8e-4719-b9cc-58b1c64c8522.png)
 
 When you click on the View Campaign, you can see the details about each campaign and can even contribute in a campaign to become a contirbutor of a campaign
